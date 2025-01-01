@@ -1,79 +1,17 @@
-# 👋 Hi there, I'm [Your Name]!
+<h1 align="center">Hi 👋, I'm Raghul M</h1>
+<h3 align="center">A passionate Software Trainer from India</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)  
-![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square)  
-![Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sksmraghul&label=Profile%20views&color=0e75b6&style=flat" alt="sksmraghul" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sksmraghul" alt="sksmraghul" /></a> </p>
 
-🌟 **I am a passionate [Your Profession, e.g., Software Engineer, Data Scientist] who loves building innovative solutions.**  
-📍 Based in [Your Location].  
-💼 Currently working at [Your Company/Organization].  
-📚 Exploring [Area of Interest, e.g., AI, Embedded Systems, Web Development].
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sksmraghul&show_icons=true&locale=en&layout=compact" alt="sksmraghul" /></p>
 
-- 🛠️ I specialize in **[Your Key Skills]**.
-- 🌱 Currently learning **[Tech/Skill You Are Learning]**.
-- 👯 I’m open to collaborating on **[Type of Projects]**.
-- ⚡ Fun fact: **[Interesting Fun Fact About You]**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C](https://img.shields.io/badge/-C-informational?logo=c&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)
-
-### 🔧 Tools & Frameworks
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat)
-
-### 🗂️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql&logoColor=white&style=flat)
-
----
-
-## 📈 GitHub Stats
-
-### 💻 **Profile Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
-### 🌟 **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 💼 Featured Projects
-
-### [🌐 Project 1 Title](https://github.com/yourusername/project1)
-**Description**: A brief description of the project and its purpose.  
-**Tech Stack**: [Tech1, Tech2, Tech3]  
-
----
-
-### [📊 Project 2 Title](https://github.com/yourusername/project2)
-**Description**: A brief description of the project and its purpose.  
-**Tech Stack**: [Tech1, Tech2, Tech3]  
-
----
-
-## 📬 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-## ✨ Support Me
-
-If you like my work, consider ⭐ **starring** my repositories or sponsoring me!  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sksmraghul&show_icons=true&locale=en" alt="sksmraghul" /></p>
